@@ -1,5 +1,5 @@
 
-// pivot = max element in column
+// pivot = A
 
 #include "gauss.h"
 void gauss_elimination(int n, double A[n][n], double b[n]) {
