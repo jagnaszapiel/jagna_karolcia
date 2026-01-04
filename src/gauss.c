@@ -1,4 +1,4 @@
-//pivot = aktualny element
+
 // pivot = max element in column
 
 #include "gauss.h"
